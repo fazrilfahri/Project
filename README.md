@@ -1,2 +1,2 @@
-# PROGRESS PROJEK AI
-Machine Learning Project on Covid-19 Cases Prediction with Python for Next 30 Days
+# PROGRESS PROJEK AI 
+Prediksi Kasus Covid-19 Selama 30 Hari ke Depan
